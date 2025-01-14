@@ -11,7 +11,7 @@ Hello, I'm a Telecommunications Engineer with over three years of experience in 
 # Tech Stack
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,apollo,graphql,azure,docker,go,java,linux,mysql,postman,py,spring,vim,vscode" />
+        <img src="https://skillicons.dev/icons?i=git,github,apollo,graphql,azure,docker,go,java,linux,mysql,postman,py,spring,vim,vscode,kafka" />
     </a>
 </div>
 <br>
