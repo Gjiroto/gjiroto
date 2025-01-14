@@ -21,7 +21,7 @@ Hello, I'm a Telecommunications Engineer with over three years of experience in 
     <img src="https://github-readme-stats.vercel.app/api?username=gjiroto&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <br/>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gjiroto&theme=blueberry&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gjiroto&theme=blueberry&hide_border=false" alt="GitHub Streak" />
     <br/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjiroto&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
