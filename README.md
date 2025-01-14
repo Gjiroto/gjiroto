@@ -27,6 +27,7 @@ Hello, I'm a Telecommunications Engineer with over two and a half years of exper
 ##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-santiago-gonzález-sotelo-21ba33187) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://Discordapp.com/users/22401900167401) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevingonzalez.may@gmail.com) 
 
 <br/>
 <br/>
