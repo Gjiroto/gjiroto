@@ -23,7 +23,7 @@ Hello, I'm a Telecommunications Engineer with over three years of experience in 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gjiroto&theme=blueberry&hide_border=false)
 <br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gjiroto&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gjiroto&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 <br/>
 
