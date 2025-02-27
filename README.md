@@ -17,7 +17,7 @@ Hello, I'm a Telecommunications Engineer with over three years of experience in 
 <br>
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=gjiroto&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=gjiroto&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gjiroto&theme=blueberry&hide_border=false)
