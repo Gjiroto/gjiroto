@@ -3,7 +3,8 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
 </div>
 
-![Banner GH](https://github.com/Gjiroto/UserDocuments/blob/main/1708287648821.jpeg)
+![Banner GH](![Banner](https://github.com/user-attachments/assets/ab206098-d7d9-4368-aa45-0682887a7716)
+
 
 # Me 
 Hello, I'm a Telecommunications Engineer with over three years of experience in Backend development, working as a Junior Engineer and Engineer at NTTData. During this time, I have acquired and strengthened my skills in technologies such as Golang, Python, Azure, Apollo with GraphQL, and Java. Additionally, I have provided support in various projects, improving my teamwork and task management skills. I also have knowledge of software architecture in terms of design and documentation.<br>
