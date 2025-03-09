@@ -3,7 +3,7 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
 </div>
 
-![Banner GH](![Banner](https://github.com/user-attachments/assets/ab206098-d7d9-4368-aa45-0682887a7716)
+![Banner](https://github.com/user-attachments/assets/ab206098-d7d9-4368-aa45-0682887a7716)
 
 
 # Me 
